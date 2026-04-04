@@ -23,20 +23,6 @@ This project visually represents real-world traffic signals with a countdown tim
 
 ---
 
-## 📂 Project Structure
-
-```
-Traffic-Light-Simulator/
-│
-├── main.py
-├── green.png
-├── yellow.png
-├── red.png
-└── README.md
-```
-
----
-
 ## 🚀 How to Run
 
 ### 1. Clone the repository
@@ -78,17 +64,24 @@ Make sure these image files are present in the same directory:
   * 🟡 Yellow (5 seconds)
   * 🔴 Red (15 seconds)
   * 🟡 Yellow (5 seconds)
+
 * Uses Tkinter’s `after()` method for smooth, non-blocking updates.
+
 * Updates GUI every second with a countdown timer.
 
 ---
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshot 
 
-*Add your project screenshot here*
 
 ```
-![Traffic Light Screenshot](screenshot.png)
+![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/1.png)
+```
+```
+![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/2.png)
+```
+```
+![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/3.png)
 ```
 
 ---
@@ -118,6 +111,5 @@ This project is open-source and available under the MIT License.
 
 **Ashish Kumar**
 
----
 
 ⭐ If you like this project, don't forget to star the repository!
