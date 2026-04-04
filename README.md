@@ -74,17 +74,13 @@ Make sure these image files are present in the same directory:
 ## 📸 Screenshot 
 
 
-```
-![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/1.png)
-```
-```
-![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/2.png)
-```
-```
-![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/3.png)
-```
 
----
+![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/1.png)
+
+![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/2.png)
+
+![image alt](https://github.com/ashishkumar1812/Traffic-Light-using-Python-While-Loop-/blob/efa14817a6cdc42deaed9ce5f7e3f803ebd9e30b/Image/3.png)
+
 
 ## 🔧 Future Improvements
 
